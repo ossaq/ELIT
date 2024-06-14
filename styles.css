@@ -30,7 +30,7 @@
 }
 
 .logo {
-  background: url("/images/logo.png") no-repeat;
+  background: url("Images/logo.png") no-repeat;
   object-fit: cover;
   width: 230px;
   height: 70px;
